@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<films>
+  <film>
+    <titolo>Space Sweepers</titolo>
+    <regista>Sung-Hee Jo</regista>
+    <anno>2021</anno>
+    <genere>fantascienza</genere>
+    <nazionalità>Corea</nazionalità>
+  </film>
+  <film>
+    <titolo>Train to Busan</titolo>
+    <regista>Sang-Ho Yeon</regista>
+    <anno>2016</anno>
+    <genere>Zombie</genere>
+    <nazionalità>Corea</nazionalità>
+  </film>
+  <film>
+    <titolo>Peninsula</titolo>
+    <regista>Sang-Ho Yeon</regista>
+    <anno>2020</anno>
+    <genere>Zombie</genere>
+    <nazionalità>Corea</nazionalità>
+  </film>
+  <film>
+    <titolo>The Odd family - Zombie on sale</titolo>
+    <regista>Lee Min-Jae </regista>
+    <anno>2019</anno>
+    <genere>Zombie</genere>
+    <nazionalità>Corea</nazionalità>
+  </film>
+  <film>
+    <titolo>Nomadland</titolo>
+    <regista>Chloé Zhao</regista>
+    <anno>2020</anno>
+    <genere>Drammatico</genere>
+    <nazionalità>USA</nazionalità>
+  </film>
+  <film>
+    <titolo>Malmkrog</titolo>
+    <regista>Cristi Puiu</regista>
+    <anno>2020</anno>
+    <genere>Drammatico</genere>
+    <nazionalità>Francia</nazionalità>
+    <nazionalità>Romania</nazionalità>
+  </film>
+  <film>
+    <titolo>In Between Dying</titolo>
+    <regista>Hilal Baydarov</regista>
+    <anno>2020</anno>
+    <genere>Drammatico</genere>
+    <nazionalità>Azerbaigian</nazionalità>
+  </film>
+  <film>
+    <titolo>Soul</titolo>
+    <regista>Pete Docter</regista>
+    <regista>Kemp Powers</regista>
+    <anno>2020</anno>
+    <genere>Animazione</genere>
+    <nazionalità>USA</nazionalità>
+  </film>
+  <film>
+    <titolo>Volevo nascondermi</titolo>
+    <regista>Giorgio Diritti</regista>
+    <anno>2020</anno>
+    <genere>Biografico</genere>
+    <nazionalità>Italia</nazionalità>
+  </film>
+  <film>
+    <titolo>Mi chiamo Francesco Totti</titolo>
+    <regista>Alex Infascelli</regista>
+    <anno>2020</anno>
+    <genere>Documentario</genere>
+    <nazionalità>Italia</nazionalità>
+  </film>
+  <film>
+    <titolo>Quasi Natale</titolo>
+    <regista>Francesco Lagi</regista>
+    <anno>2020</anno>
+    <genere>Comico</genere>
+    <nazionalità>Italia</nazionalità>
+  </film>
+</films>

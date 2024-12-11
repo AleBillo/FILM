@@ -1,0 +1,7 @@
+C:\Users\alessandro.dominici\Desktop\film_Dominici\film_Dominici\obj\Debug\film_Dominici.csprojAssemblyReference.cache
+C:\Users\alessandro.dominici\Desktop\film_Dominici\film_Dominici\obj\Debug\film_Dominici.csproj.CoreCompileInputs.cache
+C:\Users\alessandro.dominici\Desktop\film_Dominici\film_Dominici\bin\Debug\film_Dominici.exe.config
+C:\Users\alessandro.dominici\Desktop\film_Dominici\film_Dominici\bin\Debug\film_Dominici.exe
+C:\Users\alessandro.dominici\Desktop\film_Dominici\film_Dominici\bin\Debug\film_Dominici.pdb
+C:\Users\alessandro.dominici\Desktop\film_Dominici\film_Dominici\obj\Debug\film_Dominici.exe
+C:\Users\alessandro.dominici\Desktop\film_Dominici\film_Dominici\obj\Debug\film_Dominici.pdb
